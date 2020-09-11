@@ -1,5 +1,5 @@
 # MNISTJavaClassfier
-It's a classifier for the MNIST Dataset using a multi layered neural network
+It's a from scratch classifier for the MNIST Dataset using a multi layered neural network
 
 The initial datasets found on 
 http://yann.lecun.com/exdb/mnist/
